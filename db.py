@@ -5,4 +5,4 @@ users = [
 
 products = [
     {"id": 1, "name": "Laptop", "price": 10},
-    {"id": 2, "name": "Smartphone", "price": 5},]
+    {"id": 2, "name": "Smartphone", "price": 10},]
